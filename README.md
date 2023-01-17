@@ -18,6 +18,9 @@ Then your snake will turn blue**
 
 ![image](https://user-images.githubusercontent.com/97995173/212981815-404cb75b-4bc5-42e4-8814-0ba2e41fcb0a.png)
 
-# vedio:  
+# video: 
+
+https://user-images.githubusercontent.com/97995173/212991871-1012fca3-3351-42a0-b2c1-a6cc34d6702c.mp4
+
 
 
